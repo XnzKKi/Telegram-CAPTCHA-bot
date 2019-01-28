@@ -5,8 +5,8 @@ Wants=network-online.target
 
 [Service]
 Type=simple
-WorkingDirectory=/root/Telegram-CAPTCHA-bot # 在这里输入 Telegram-CAPTCHA-bot 文件夹的绝对路径（打开文件夹后可输入 pwd 命令查看）
-ExecStart=/usr/bin/python3 /root/Telegram-CAPTCHA-bot/main.py #在这里输入 /usr/bin/python3 main.py 的绝对路径
+WorkingDirectory=/root/Telegram-CAPTCHA-bot # 更改为 Telegram-CAPTCHA-bot 文件夹的绝对路径（打开文件夹后可输入 pwd 命令查看）
+ExecStart=/usr/bin/python3 /root/Telegram-CAPTCHA-bot/main.py # 更改为 /usr/bin/python3 main.py 的绝对路径
 Restart=always
 PrivateTmp=True
 KillSignal=SIGINT
