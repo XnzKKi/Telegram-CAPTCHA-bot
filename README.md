@@ -15,6 +15,8 @@
 5. 按照注释修改 Telegram-CAPTCHA-bot.service ，修改好后将其移动到 /etc/systemd/system 下(最好把文件“#”给去掉哦)
 6. 输入 `systemctl start Telegram-CAPTCHA-bot` 即可运行 bot 。
 
+注:
+   查看Bot运行日志:`systemctl status Telegram-CAPTCHA-bot`
 ## 开源协议
 
 本项目使用 MIT 许可协议发布。
