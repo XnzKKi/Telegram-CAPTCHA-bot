@@ -9,7 +9,7 @@
 ## 安装、配置及使用方法
 
 ⒈向 [@BotFather](https://t.me/BotFather) 申请一个 bot ，并将 bot api token 复制。
-⒉在服务器上安装 python-telegram-bot ： `pip3 install --upgrade python-telegram-bot` 。
+</br>⒉在服务器上安装 python-telegram-bot ： `pip3 install --upgrade python-telegram-bot` 。
 ⒊clone 并打开本项目： `git clone https://github.com/XnzKKi/Telegram-CAPTCHA-bot.git && cd Telegram-CAPTCHA-bot` 。
 ⒋将项目下 config.json 里的 token 字符串修改为第一步所获取到的 bot api token ，除此之外你也可以修改里面的配置选项。
 ⒌按照注②修改 Telegram-CAPTCHA-bot.service ，修改好后将其移动到 /etc/systemd/system 
