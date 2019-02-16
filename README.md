@@ -16,7 +16,7 @@
 </br>⒍输入 `systemctl start Telegram-CAPTCHA-bot` 即可运行 bot 。
 
 注:
-   </br>① 请在你的server中增加*中文语言包*
+   </br>① 请在你的server中增加<b>中文语言包</b>
    </br>② 查看Bot运行日志:`systemctl status Telegram-CAPTCHA-bot`
    </br>③ `WorkingDirectory` 设置为机器人源码目录 `ExecStart `为pythone3库(一般默认就行)
    
