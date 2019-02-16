@@ -4,7 +4,7 @@
 
 原项目地址：https://github.com/lziad/Telegram-CAPTCHA-bot
 
-本项目由 [@TH779](https://t.me/TH779) 修改并发布。
+本项目由 [@CuteKK204](https://t.me/CuteKK204) 修改。
 
 ## 安装、配置及使用方法
 
